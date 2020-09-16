@@ -2,6 +2,8 @@ from dolfin import *
 import numpy as np
 import matplotlib.pyplot as plt
 
+# Tested with dolfin version 2017.2.0
+
 # Geometric parameters
 eps = 1.0
 Lx = 3*eps
